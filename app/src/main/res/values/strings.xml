@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">woof-apps</string>
+    <string name="dog_name_1">AnjingLucu</string>
+    <string name="dog_name_2">AnjingRezaArap</string>
+    <string name="dog_name_3">AnjingPenjaga</string>
+    <string name="dog_name_4">AnjingPolos</string>
+    <string name="des1">Anjing besar yang lucu</string>
+    <string name="des2">Anjing dengan muka mirip reza</string>
+    <string name="des3">Anjing penjaga Keluarga</string>
+    <string name="des4"> anjing baik selalu nurut</string>
+    <string name="about">Pesan:</string>
+    <string name="years_old">%d years old</string>
+    <string name="expand_button_content_description">See mo re or less information about a dog.</string>
+</resources>
